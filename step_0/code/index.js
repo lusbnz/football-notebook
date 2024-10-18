@@ -50,5 +50,4 @@ const fetchHeadToHeadData = async () => {
     });
 };
 
-// Run the async function
 fetchHeadToHeadData();

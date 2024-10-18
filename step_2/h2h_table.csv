@@ -1,0 +1,1381 @@
+Match Id,H2H Match Id,Home Team,Away Team,Home Goal HT,Away Goal HT,Home Goal FT,Away Goal FT
+497410,497410,Man United,Fulham,0,0,1,0
+497410,436200,Man United,Fulham,0,0,1,2
+497410,436046,Fulham,Man United,0,0,0,1
+497410,416006,Man United,Fulham,1,1,2,1
+497410,416232,Fulham,Man United,0,1,1,2
+497411,497411,Ipswich Town,Liverpool,0,0,0,2
+497412,497412,Arsenal,Wolverhampton,1,0,2,0
+497412,436282,Wolverhampton,Arsenal,0,1,0,2
+497412,436074,Arsenal,Wolverhampton,2,0,2,1
+497412,416014,Arsenal,Wolverhampton,3,0,5,0
+497412,416225,Wolverhampton,Arsenal,0,0,0,2
+497413,497413,Everton,Brighton Hove,0,1,0,3
+497413,436196,Brighton Hove,Everton,0,0,1,1
+497413,436045,Everton,Brighton Hove,1,0,1,1
+497413,416043,Brighton Hove,Everton,0,3,1,5
+497413,416199,Everton,Brighton Hove,0,1,1,4
+497414,497414,Newcastle,Southampton,1,0,1,0
+497414,416045,Newcastle,Southampton,0,1,3,1
+497414,416238,Southampton,Newcastle,0,1,1,4
+497415,497415,Nottingham,Bournemouth,1,0,1,1
+497415,436163,Bournemouth,Nottingham,1,1,1,1
+497415,436119,Nottingham,Bournemouth,0,0,2,3
+497415,416183,Bournemouth,Nottingham,1,0,1,1
+497415,416327,Nottingham,Bournemouth,2,0,2,3
+497416,497416,West Ham,Aston Villa,1,1,1,2
+497416,436231,West Ham,Aston Villa,1,0,1,1
+497416,436024,Aston Villa,West Ham,1,0,4,1
+497416,416115,West Ham,Aston Villa,1,1,1,1
+497416,416353,Aston Villa,West Ham,0,0,0,1
+497417,497417,Brentford,Crystal Palace,1,0,2,1
+497417,436134,Crystal Palace,Brentford,2,1,3,1
+497417,435965,Brentford,Crystal Palace,1,0,1,1
+497417,416153,Brentford,Crystal Palace,0,0,1,1
+497417,416338,Crystal Palace,Brentford,0,0,1,1
+497418,497418,Chelsea,Man City,0,1,0,2
+497418,436188,Man City,Chelsea,0,1,1,1
+497418,436057,Chelsea,Man City,2,2,4,4
+497418,416020,Man City,Chelsea,1,0,1,0
+497418,416201,Chelsea,Man City,0,0,0,1
+497419,497419,Leicester City,Tottenham,0,1,1,1
+497419,416159,Leicester City,Tottenham,3,1,4,1
+497419,416306,Tottenham,Leicester City,2,2,6,2
+497422,497422,Brighton Hove,Man United,1,0,2,1
+497422,436315,Brighton Hove,Man United,0,0,0,2
+497422,435987,Man United,Brighton Hove,0,1,1,3
+497422,416111,Brighton Hove,Man United,0,0,1,0
+497422,416376,Man United,Brighton Hove,0,2,1,2
+497423,497423,Crystal Palace,West Ham,0,0,0,2
+497423,436275,Crystal Palace,West Ham,4,1,5,2
+497423,436082,West Ham,Crystal Palace,1,0,1,1
+497423,416050,Crystal Palace,West Ham,3,2,4,3
+497423,416236,West Ham,Crystal Palace,1,1,1,2
+497424,497424,Fulham,Leicester City,1,1,2,1
+497424,416042,Fulham,Leicester City,3,0,5,3
+497424,416197,Leicester City,Fulham,0,1,0,1
+497426,497426,Man City,Ipswich Town,3,1,4,1
+497427,497427,Southampton,Nottingham,0,0,0,1
+497427,416038,Nottingham,Southampton,3,1,4,3
+497427,416195,Southampton,Nottingham,0,1,0,1
+497428,497428,Tottenham,Everton,2,0,4,0
+497428,436169,Everton,Tottenham,1,2,2,2
+497428,436120,Tottenham,Everton,2,0,2,1
+497428,416099,Everton,Tottenham,0,0,1,1
+497428,416276,Tottenham,Everton,0,0,2,0
+497421,497421,Aston Villa,Arsenal,0,0,0,2
+497421,436264,Arsenal,Aston Villa,0,0,0,2
+497421,436093,Aston Villa,Arsenal,1,0,1,0
+497421,416154,Aston Villa,Arsenal,2,1,2,4
+497421,416344,Arsenal,Aston Villa,1,0,2,1
+497420,497420,Bournemouth,Newcastle,1,0,1,1
+497420,436189,Newcastle,Bournemouth,0,0,2,2
+497420,436053,Bournemouth,Newcastle,0,0,2,0
+497420,416163,Bournemouth,Newcastle,1,1,1,1
+497420,416308,Newcastle,Bournemouth,0,0,1,1
+497429,497429,Wolverhampton,Chelsea,2,2,2,6
+497429,436168,Chelsea,Wolverhampton,1,2,2,4
+497429,436122,Wolverhampton,Chelsea,0,0,2,1
+497429,416085,Wolverhampton,Chelsea,1,0,1,0
+497429,416291,Chelsea,Wolverhampton,1,0,3,0
+497425,497425,Liverpool,Brentford,1,0,2,0
+497425,436183,Brentford,Liverpool,0,1,1,4
+497425,436059,Liverpool,Brentford,1,0,3,0
+497425,416041,Liverpool,Brentford,1,0,1,0
+497425,416202,Brentford,Liverpool,2,0,3,1
+497430,497430,Arsenal,Brighton Hove,1,0,1,1
+497430,436254,Brighton Hove,Arsenal,0,1,0,3
+497430,436104,Arsenal,Brighton Hove,0,0,2,0
+497430,416034,Arsenal,Brighton Hove,0,0,0,3
+497430,416213,Brighton Hove,Arsenal,0,2,2,4
+497431,497431,Brentford,Southampton,1,0,3,1
+497431,416316,Southampton,Brentford,0,1,0,2
+497431,416173,Brentford,Southampton,2,0,3,0
+497433,497433,Everton,Bournemouth,0,0,2,3
+497433,436233,Bournemouth,Everton,0,0,2,1
+497433,436017,Everton,Bournemouth,2,0,3,0
+497433,416009,Everton,Bournemouth,0,0,1,0
+497433,416234,Bournemouth,Everton,2,0,3,0
+497434,497434,Ipswich Town,Fulham,1,1,1,1
+497435,497435,Leicester City,Aston Villa,0,1,1,2
+497435,416319,Leicester City,Aston Villa,1,1,1,2
+497435,416174,Aston Villa,Leicester City,2,3,2,4
+497438,497438,Nottingham,Wolverhampton,1,1,1,1
+497438,436271,Nottingham,Wolverhampton,1,1,2,2
+497438,436102,Wolverhampton,Nottingham,1,1,1,1
+497438,416096,Nottingham,Wolverhampton,1,0,1,1
+497438,416275,Wolverhampton,Nottingham,0,0,1,0
+497439,497439,West Ham,Man City,1,2,1,3
+497439,436321,Man City,West Ham,2,1,3,1
+497439,435991,West Ham,Man City,1,0,1,3
+497439,416108,Man City,West Ham,0,0,3,0
+497439,416375,West Ham,Man City,0,1,0,2
+497432,497432,Chelsea,Crystal Palace,1,0,1,1
+497432,436174,Crystal Palace,Chelsea,1,0,1,3
+497432,436128,Chelsea,Crystal Palace,1,1,2,1
+497432,416191,Chelsea,Crystal Palace,0,0,1,0
+497432,416302,Crystal Palace,Chelsea,1,1,1,2
+497437,497437,Newcastle,Tottenham,1,0,2,1
+497437,436270,Newcastle,Tottenham,2,0,4,0
+497437,436101,Tottenham,Newcastle,2,0,4,1
+497437,416065,Newcastle,Tottenham,5,0,6,1
+497437,416257,Tottenham,Newcastle,0,2,1,2
+497436,497436,Man United,Liverpool,0,2,0,3
+497436,436259,Man United,Liverpool,0,1,2,2
+497436,436108,Liverpool,Man United,0,0,0,0
+497436,416129,Liverpool,Man United,1,0,7,0
+497436,416358,Man United,Liverpool,1,0,2,1
+497447,497447,Southampton,Man United,0,2,0,3
+497447,416118,Man United,Southampton,0,0,0,0
+497447,416346,Southampton,Man United,0,0,0,1
+497442,497442,Brighton Hove,Ipswich Town,0,0,0,0
+497443,497443,Crystal Palace,Leicester City,0,1,2,2
+497443,416100,Crystal Palace,Leicester City,0,0,2,1
+497443,416280,Leicester City,Crystal Palace,0,0,0,0
+497444,497444,Fulham,West Ham,1,0,1,1
+497444,436272,West Ham,Fulham,0,1,0,2
+497444,436097,Fulham,West Ham,3,0,5,0
+497444,416092,Fulham,West Ham,0,1,0,1
+497444,416285,West Ham,Fulham,1,1,3,1
+497445,497445,Liverpool,Nottingham,0,0,0,1
+497445,436210,Nottingham,Liverpool,0,0,0,1
+497445,436039,Liverpool,Nottingham,2,0,3,0
+497445,416067,Liverpool,Nottingham,0,0,3,2
+497445,416259,Nottingham,Liverpool,0,0,1,0
+497446,497446,Man City,Brentford,2,1,2,1
+497446,436118,Man City,Brentford,0,0,1,0
+497446,436165,Brentford,Man City,1,1,1,3
+497446,416012,Brentford,Man City,0,0,1,0
+497446,416230,Man City,Brentford,1,1,1,2
+497441,497441,Aston Villa,Everton,1,2,3,2
+497441,436149,Everton,Aston Villa,0,0,0,0
+497441,435953,Aston Villa,Everton,2,0,4,0
+497441,416142,Everton,Aston Villa,0,0,0,2
+497441,416373,Aston Villa,Everton,1,0,2,1
+497440,497440,Bournemouth,Chelsea,0,0,0,1
+497440,436317,Chelsea,Bournemouth,1,0,2,1
+497440,435983,Bournemouth,Chelsea,0,0,0,0
+497440,416044,Bournemouth,Chelsea,1,1,1,3
+497440,416221,Chelsea,Bournemouth,2,0,2,0
+497448,497448,Tottenham,Arsenal,0,0,0,1
+497448,436290,Tottenham,Arsenal,0,3,2,3
+497448,435993,Arsenal,Tottenham,1,1,2,2
+497448,416186,Tottenham,Arsenal,0,2,0,2
+497448,416304,Arsenal,Tottenham,1,1,3,1
+497449,497449,Wolverhampton,Newcastle,1,0,1,2
+497449,436209,Newcastle,Wolverhampton,2,0,3,0
+497449,436042,Wolverhampton,Newcastle,1,2,2,2
+497449,416117,Newcastle,Wolverhampton,1,0,2,1
+497449,416345,Wolverhampton,Newcastle,1,0,1,1
+497459,497459,West Ham,Chelsea,0,2,0,3
+497459,436297,Chelsea,West Ham,3,0,5,0
+497459,435961,West Ham,Chelsea,1,1,3,1
+497459,416155,West Ham,Chelsea,1,1,1,1
+497459,416331,Chelsea,West Ham,0,0,2,1
+497450,497450,Aston Villa,Wolverhampton,0,1,3,1
+497450,436234,Aston Villa,Wolverhampton,1,0,2,0
+497450,436022,Wolverhampton,Aston Villa,0,0,1,1
+497450,416035,Wolverhampton,Aston Villa,1,0,1,0
+497450,416203,Aston Villa,Wolverhampton,0,1,1,1
+497453,497453,Fulham,Newcastle,2,0,3,1
+497453,436257,Fulham,Newcastle,0,0,0,1
+497453,436110,Newcastle,Fulham,0,0,3,0
+497453,416188,Newcastle,Fulham,0,0,1,0
+497453,416301,Fulham,Newcastle,0,3,1,4
+497454,497454,Leicester City,Everton,0,1,1,1
+497454,416048,Leicester City,Everton,2,1,2,2
+497454,416242,Everton,Leicester City,0,1,0,2
+497455,497455,Liverpool,Bournemouth,3,0,3,0
+497455,436143,Bournemouth,Liverpool,0,0,0,4
+497455,435956,Liverpool,Bournemouth,2,1,3,1
+497455,416124,Bournemouth,Liverpool,1,0,1,0
+497455,416349,Liverpool,Bournemouth,5,0,9,0
+497457,497457,Southampton,Ipswich Town,1,0,1,1
+497457,437147,Ipswich Town,Southampton,1,2,3,2
+497457,436749,Southampton,Ipswich Town,0,1,0,1
+497458,497458,Tottenham,Brentford,2,1,3,1
+497458,436159,Tottenham,Brentford,0,1,3,2
+497458,435950,Brentford,Tottenham,2,2,2,2
+497458,416017,Tottenham,Brentford,1,0,1,3
+497458,416222,Brentford,Tottenham,1,0,2,2
+497452,497452,Crystal Palace,Man United,0,0,0,0
+497452,436298,Crystal Palace,Man United,2,0,4,0
+497452,436007,Man United,Crystal Palace,0,1,0,1
+497452,416169,Man United,Crystal Palace,1,0,2,1
+497452,416322,Crystal Palace,Man United,0,1,1,1
+497451,497451,Brighton Hove,Nottingham,2,1,2,2
+497451,436216,Brighton Hove,Nottingham,1,0,1,0
+497451,436070,Nottingham,Brighton Hove,1,2,2,3
+497451,416062,Nottingham,Brighton Hove,1,1,3,1
+497451,416271,Brighton Hove,Nottingham,0,0,0,0
+497456,497456,Man City,Arsenal,1,2,2,2
+497456,436238,Man City,Arsenal,0,0,0,0
+497456,436013,Arsenal,Man City,0,0,1,0
+497456,416055,Man City,Arsenal,2,0,4,1
+497456,416274,Arsenal,Man City,1,1,1,3
+497467,497467,Newcastle,Man City,0,1,1,1
+497467,436151,Newcastle,Man City,2,1,2,3
+497467,435958,Man City,Newcastle,1,0,1,0
+497467,416128,Man City,Newcastle,1,0,2,0
+497467,416357,Newcastle,Man City,2,1,3,3
+497461,497461,Arsenal,Leicester City,2,0,4,2
+497461,416139,Leicester City,Arsenal,0,0,0,1
+497461,416374,Arsenal,Leicester City,2,0,4,2
+497462,497462,Brentford,West Ham,1,0,1,1
+497462,436201,West Ham,Brentford,2,1,4,2
+497462,436043,Brentford,West Ham,1,2,3,2
+497462,416032,Brentford,West Ham,2,0,2,0
+497462,416206,West Ham,Brentford,0,2,0,2
+497463,497463,Chelsea,Brighton Hove,4,2,4,2
+497463,436274,Brighton Hove,Chelsea,0,1,1,2
+497463,436077,Chelsea,Brighton Hove,2,1,3,2
+497463,416083,Chelsea,Brighton Hove,1,1,1,2
+497463,416251,Brighton Hove,Chelsea,3,0,4,1
+497464,497464,Everton,Crystal Palace,0,1,2,1
+497464,436185,Everton,Crystal Palace,0,0,1,1
+497464,436058,Crystal Palace,Everton,1,1,2,3
+497464,416070,Crystal Palace,Everton,0,0,0,0
+497464,416262,Everton,Crystal Palace,1,0,3,0
+497468,497468,Nottingham,Fulham,0,0,0,1
+497468,436247,Nottingham,Fulham,3,0,3,1
+497468,436086,Fulham,Nottingham,2,0,5,0
+497468,416161,Fulham,Nottingham,1,0,2,0
+497468,416307,Nottingham,Fulham,1,0,2,3
+497469,497469,Wolverhampton,Liverpool,0,1,1,2
+497469,436319,Liverpool,Wolverhampton,2,0,2,0
+497469,435992,Wolverhampton,Liverpool,1,0,1,3
+497469,416318,Liverpool,Wolverhampton,0,0,2,0
+497469,416165,Wolverhampton,Liverpool,2,0,3,0
+497465,497465,Ipswich Town,Aston Villa,1,2,2,2
+497466,497466,Man United,Tottenham,0,1,0,3
+497466,436150,Man United,Tottenham,2,1,2,2
+497466,435960,Tottenham,Man United,0,0,2,0
+497466,416061,Tottenham,Man United,0,2,2,2
+497466,416265,Man United,Tottenham,0,0,2,0
+497460,497460,Bournemouth,Southampton,3,0,3,1
+497460,416056,Southampton,Bournemouth,0,0,0,1
+497460,416273,Bournemouth,Southampton,0,1,0,1
+497475,497475,Crystal Palace,Liverpool,0,1,0,1
+497475,436268,Liverpool,Crystal Palace,0,1,0,1
+497475,436095,Crystal Palace,Liverpool,0,0,1,2
+497475,416143,Crystal Palace,Liverpool,0,0,0,0
+497475,416369,Liverpool,Crystal Palace,0,1,1,1
+497470,497470,Arsenal,Southampton,0,0,3,1
+497470,416074,Arsenal,Southampton,1,2,3,3
+497470,416258,Southampton,Arsenal,0,1,1,1
+497472,497472,Brentford,Wolverhampton,4,2,5,3
+497472,436182,Wolverhampton,Brentford,0,1,0,2
+497472,436125,Brentford,Wolverhampton,1,3,1,4
+497472,416075,Wolverhampton,Brentford,1,0,2,0
+497472,416252,Brentford,Wolverhampton,0,0,1,1
+497477,497477,Leicester City,Bournemouth,1,0,1,0
+497477,416090,Leicester City,Bournemouth,0,1,0,1
+497477,416293,Bournemouth,Leicester City,0,1,2,1
+497478,497478,Man City,Fulham,1,1,3,2
+497478,436306,Fulham,Man City,0,1,0,4
+497478,435981,Man City,Fulham,2,1,5,1
+497478,416049,Fulham,Man City,1,2,1,2
+497478,416240,Man City,Fulham,1,1,2,1
+497479,497479,West Ham,Ipswich Town,2,1,4,1
+497476,497476,Everton,Newcastle,0,0,0,0
+497476,436250,Newcastle,Everton,1,0,1,1
+497476,436085,Everton,Newcastle,0,0,3,0
+497476,416064,Everton,Newcastle,0,1,1,4
+497476,416267,Newcastle,Everton,1,0,1,0
+497471,497471,Aston Villa,Man United,0,0,0,0
+497471,436173,Aston Villa,Man United,0,1,1,2
+497471,436130,Man United,Aston Villa,0,2,3,2
+497471,416046,Man United,Aston Villa,1,0,1,0
+497471,416244,Aston Villa,Man United,2,1,3,1
+497474,497474,Chelsea,Nottingham,0,0,1,1
+497474,436309,Nottingham,Chelsea,1,1,2,3
+497474,435977,Chelsea,Nottingham,0,0,0,1
+497474,416031,Chelsea,Nottingham,0,1,2,2
+497474,416208,Nottingham,Chelsea,0,1,1,1
+497473,497473,Brighton Hove,Tottenham,0,2,3,2
+497473,436180,Tottenham,Brighton Hove,0,1,2,1
+497473,436126,Brighton Hove,Tottenham,2,0,4,2
+497473,416086,Tottenham,Brighton Hove,1,1,2,1
+497473,416292,Brighton Hove,Tottenham,0,1,0,1
+497488,436248,West Ham,Tottenham,1,1,1,1
+497488,436089,Tottenham,West Ham,1,0,1,2
+497488,416146,Tottenham,West Ham,0,0,2,0
+497488,416339,West Ham,Tottenham,0,1,1,1
+497481,436186,Fulham,Aston Villa,0,1,1,2
+497481,436055,Aston Villa,Fulham,2,0,3,1
+497481,416058,Aston Villa,Fulham,1,0,1,0
+497481,416270,Fulham,Aston Villa,1,0,3,0
+497484,436235,Brentford,Man United,0,0,1,1
+497484,436020,Man United,Brentford,0,1,2,1
+497484,416138,Man United,Brentford,1,0,1,0
+497484,416372,Brentford,Man United,4,0,4,0
+497485,436308,Newcastle,Brighton Hove,1,1,1,1
+497485,435975,Brighton Hove,Newcastle,1,0,3,1
+497485,416137,Newcastle,Brighton Hove,2,0,4,1
+497485,416371,Brighton Hove,Newcastle,0,0,0,0
+497487,437125,Leicester City,Southampton,1,0,5,0
+497487,436739,Southampton,Leicester City,1,3,1,4
+497487,416126,Southampton,Leicester City,1,0,1,0
+497487,416359,Leicester City,Southampton,0,0,1,2
+497480,436293,Arsenal,Bournemouth,1,0,3,0
+497480,436003,Bournemouth,Arsenal,0,2,0,4
+497480,416134,Arsenal,Bournemouth,0,1,3,2
+497480,416364,Bournemouth,Arsenal,0,2,0,3
+497489,436301,Man City,Wolverhampton,3,0,5,1
+497489,436012,Wolverhampton,Man City,1,0,2,1
+497489,416177,Man City,Wolverhampton,1,0,3,0
+497489,416305,Wolverhampton,Man City,0,2,0,3
+497483,436162,Liverpool,Chelsea,2,0,4,1
+497483,435951,Chelsea,Liverpool,1,1,1,1
+497483,416311,Chelsea,Liverpool,0,0,0,0
+497483,416178,Liverpool,Chelsea,0,0,0,0
+497486,436240,Nottingham,Crystal Palace,0,1,1,1
+497486,436016,Crystal Palace,Nottingham,0,0,0,0
+497486,416010,Crystal Palace,Nottingham,0,1,1,1
+497486,416228,Nottingham,Crystal Palace,0,0,1,0
+497497,416187,Nottingham,Leicester City,0,0,2,0
+497497,416299,Leicester City,Nottingham,3,0,4,0
+497491,436273,Aston Villa,Bournemouth,1,1,3,1
+497491,436073,Bournemouth,Aston Villa,1,1,2,2
+497491,416113,Aston Villa,Bournemouth,1,0,3,0
+497491,416382,Bournemouth,Aston Villa,1,0,2,0
+497493,436146,Brighton Hove,Wolverhampton,0,0,0,0
+497493,435962,Wolverhampton,Brighton Hove,0,1,1,4
+497493,416051,Brighton Hove,Wolverhampton,4,0,6,0
+497493,416235,Wolverhampton,Brighton Hove,2,2,2,3
+497498,416087,Southampton,Man City,0,1,1,4
+497498,416288,Man City,Southampton,2,0,4,0
+497496,436156,Fulham,Everton,0,0,0,0
+497496,435947,Everton,Fulham,0,0,0,1
+497496,416082,Everton,Fulham,1,1,1,3
+497496,416249,Fulham,Everton,0,0,0,0
+497494,436217,Chelsea,Newcastle,1,1,3,2
+497494,436069,Newcastle,Chelsea,1,1,4,1
+497494,416011,Chelsea,Newcastle,1,1,1,1
+497494,416229,Newcastle,Chelsea,0,0,1,0
+497495,436212,Tottenham,Crystal Palace,0,0,3,1
+497495,436038,Crystal Palace,Tottenham,0,0,1,2
+497495,416037,Tottenham,Crystal Palace,1,0,1,0
+497495,416200,Crystal Palace,Tottenham,0,0,0,4
+497499,436170,Man United,West Ham,1,0,3,0
+497499,436121,West Ham,Man United,0,0,2,0
+497499,416036,West Ham,Man United,1,0,1,0
+497499,416246,Man United,West Ham,1,0,1,0
+497490,436164,Arsenal,Liverpool,1,1,3,1
+497490,436116,Liverpool,Arsenal,1,1,1,1
+497490,416089,Liverpool,Arsenal,1,2,2,2
+497490,416294,Arsenal,Liverpool,2,1,3,2
+497505,436194,Arsenal,Newcastle,2,0,4,1
+497505,436049,Newcastle,Arsenal,0,0,1,0
+497505,416039,Newcastle,Arsenal,0,1,0,2
+497505,416204,Arsenal,Newcastle,0,0,0,0
+497500,436193,Bournemouth,Man City,0,1,0,1
+497500,436048,Man City,Bournemouth,3,0,6,1
+497500,416144,Bournemouth,Man City,0,3,1,4
+497500,416368,Man City,Bournemouth,3,0,4,0
+497502,437004,Leicester City,Ipswich Town,1,0,1,1
+497502,436959,Ipswich Town,Leicester City,0,1,1,1
+497503,436237,Liverpool,Brighton Hove,1,1,2,1
+497503,436014,Brighton Hove,Liverpool,1,2,2,2
+497503,416192,Brighton Hove,Liverpool,0,0,3,0
+497503,416298,Liverpool,Brighton Hove,1,2,3,3
+497506,436190,Nottingham,West Ham,1,0,2,0
+497506,436061,West Ham,Nottingham,1,1,3,2
+497506,416135,West Ham,Nottingham,0,0,4,0
+497506,416367,Nottingham,West Ham,1,0,1,0
+497507,416190,Everton,Southampton,1,0,1,2
+497507,416296,Southampton,Everton,0,0,1,2
+497509,436312,Wolverhampton,Crystal Palace,0,2,1,3
+497509,435978,Crystal Palace,Wolverhampton,0,0,3,2
+497509,416059,Wolverhampton,Crystal Palace,1,0,2,0
+497509,416268,Crystal Palace,Wolverhampton,0,1,2,1
+497508,436215,Aston Villa,Tottenham,0,0,0,4
+497508,436072,Tottenham,Aston Villa,1,1,1,2
+497508,416033,Aston Villa,Tottenham,1,0,2,1
+497508,416207,Tottenham,Aston Villa,0,0,0,2
+497504,436249,Chelsea,Man United,2,2,4,3
+497504,436092,Man United,Chelsea,1,1,2,1
+497504,416066,Man United,Chelsea,2,0,4,1
+497504,416263,Chelsea,Man United,0,0,1,1
+497501,436294,Brentford,Fulham,0,0,0,0
+497501,435955,Fulham,Brentford,0,1,0,3
+497501,416132,Brentford,Fulham,1,1,3,2
+497501,416361,Fulham,Brentford,2,1,3,2
+497510,436303,Bournemouth,Brentford,0,0,1,2
+497510,435974,Brentford,Bournemouth,1,1,2,2
+497510,416193,Brentford,Bournemouth,1,0,2,0
+497510,416303,Bournemouth,Brentford,0,0,0,0
+497513,436286,Fulham,Crystal Palace,0,0,1,1
+497513,435998,Crystal Palace,Fulham,0,0,0,0
+497513,416022,Fulham,Crystal Palace,1,1,2,2
+497513,416220,Crystal Palace,Fulham,0,1,0,3
+497518,436205,Everton,West Ham,0,0,1,3
+497518,436041,West Ham,Everton,0,0,0,1
+497518,416175,West Ham,Everton,2,0,2,0
+497518,416310,Everton,West Ham,0,0,1,0
+497519,416156,Southampton,Wolverhampton,1,0,1,2
+497519,416325,Wolverhampton,Southampton,1,0,1,0
+497511,436224,Brighton Hove,Man City,0,3,0,4
+497511,436028,Man City,Brighton Hove,2,0,2,1
+497511,416071,Brighton Hove,Man City,1,1,1,1
+497511,416260,Man City,Brighton Hove,2,0,3,1
+497514,436304,Aston Villa,Liverpool,1,2,3,3
+497514,435979,Liverpool,Aston Villa,2,0,3,0
+497514,416021,Liverpool,Aston Villa,0,1,1,1
+497514,416223,Aston Villa,Liverpool,0,2,1,3
+497515,416149,Man United,Leicester City,1,0,3,0
+497515,416340,Leicester City,Man United,0,1,0,1
+497516,436179,Nottingham,Newcastle,2,2,2,3
+497516,436131,Newcastle,Nottingham,1,1,1,3
+497516,416107,Nottingham,Newcastle,1,1,1,2
+497516,416379,Newcastle,Nottingham,0,0,2,0
+497512,436223,Arsenal,Chelsea,1,0,5,0
+497512,436026,Chelsea,Arsenal,1,0,2,2
+497512,416054,Arsenal,Chelsea,3,0,3,1
+497512,416243,Chelsea,Arsenal,0,0,0,1
+497526,416119,Leicester City,Chelsea,1,2,1,3
+497526,416350,Chelsea,Leicester City,0,0,2,1
+497520,436283,Bournemouth,Brighton Hove,1,0,3,0
+497520,435995,Brighton Hove,Bournemouth,1,1,3,1
+497520,416323,Bournemouth,Brighton Hove,0,1,0,2
+497520,416172,Brighton Hove,Bournemouth,0,0,1,0
+497521,436153,Nottingham,Arsenal,0,0,1,2
+497521,435944,Arsenal,Nottingham,2,0,2,1
+497521,416018,Nottingham,Arsenal,1,0,1,0
+497521,416254,Arsenal,Nottingham,1,0,5,0
+497522,436318,Crystal Palace,Aston Villa,2,0,5,0
+497522,435984,Aston Villa,Crystal Palace,0,0,3,1
+497522,416133,Aston Villa,Crystal Palace,1,0,1,0
+497522,416363,Crystal Palace,Aston Villa,1,1,3,1
+497523,436285,Everton,Brentford,0,0,1,0
+497523,435994,Brentford,Everton,1,1,1,3
+497523,416122,Everton,Brentford,1,0,1,0
+497523,416352,Brentford,Everton,0,1,1,1
+497524,436222,Wolverhampton,Fulham,0,0,2,1
+497524,436066,Fulham,Wolverhampton,1,1,3,2
+497524,416141,Fulham,Wolverhampton,0,1,1,1
+497524,416365,Wolverhampton,Fulham,0,0,0,0
+497527,436281,Tottenham,Man City,0,0,0,2
+497527,436079,Man City,Tottenham,2,1,3,3
+497527,416166,Tottenham,Man City,1,0,1,0
+497527,416317,Man City,Tottenham,0,2,4,2
+497529,416005,Southampton,Liverpool,2,2,4,4
+497529,416231,Liverpool,Southampton,3,1,3,1
+497528,436239,Newcastle,West Ham,1,2,4,3
+497528,436021,West Ham,Newcastle,1,0,2,2
+497528,416315,West Ham,Newcastle,1,2,1,5
+497528,416168,Newcastle,West Ham,1,1,1,1
+497531,416023,Brighton Hove,Southampton,2,0,3,1
+497531,416215,Southampton,Brighton Hove,0,2,1,3
+497530,416112,Brentford,Leicester City,1,0,1,1
+497530,416380,Leicester City,Brentford,1,0,2,2
+497533,436226,Crystal Palace,Newcastle,0,0,2,0
+497533,436029,Newcastle,Crystal Palace,3,0,4,0
+497533,416182,Crystal Palace,Newcastle,0,0,0,0
+497533,416328,Newcastle,Crystal Palace,0,0,0,0
+497539,436232,Wolverhampton,Bournemouth,0,1,0,1
+497539,436023,Bournemouth,Wolverhampton,1,0,1,2
+497539,416145,Wolverhampton,Bournemouth,0,0,0,1
+497539,416343,Bournemouth,Wolverhampton,0,0,0,0
+497538,436181,West Ham,Arsenal,0,4,0,6
+497538,436124,Arsenal,West Ham,0,1,0,2
+497538,416076,West Ham,Arsenal,1,2,2,2
+497538,416224,Arsenal,West Ham,0,1,3,1
+497532,436284,Aston Villa,Chelsea,2,0,2,2
+497532,435997,Chelsea,Aston Villa,0,0,0,1
+497532,416101,Chelsea,Aston Villa,0,1,0,2
+497532,416284,Aston Villa,Chelsea,0,1,0,2
+497535,436220,Man United,Everton,2,0,2,0
+497535,436065,Everton,Man United,0,1,0,3
+497535,416088,Man United,Everton,1,0,2,0
+497535,416289,Everton,Man United,1,2,1,2
+497537,436228,Fulham,Tottenham,1,0,3,0
+497537,436032,Tottenham,Fulham,1,0,2,0
+497537,416181,Fulham,Tottenham,0,1,0,1
+497537,416326,Tottenham,Fulham,1,0,2,1
+497534,436219,Liverpool,Man City,0,1,1,1
+497534,436068,Man City,Liverpool,1,0,1,1
+497534,416098,Man City,Liverpool,1,1,4,1
+497534,416279,Liverpool,Man City,0,0,1,0
+497540,436140,Tottenham,Bournemouth,1,0,3,1
+497540,435963,Bournemouth,Tottenham,0,1,0,2
+497540,416077,Tottenham,Bournemouth,1,1,2,3
+497540,416253,Bournemouth,Tottenham,1,0,2,3
+497541,436307,Man United,Arsenal,0,1,0,1
+497541,435973,Arsenal,Man United,1,1,3,1
+497541,416184,Arsenal,Man United,1,1,3,2
+497541,416329,Man United,Arsenal,1,0,3,1
+497542,436253,Aston Villa,Brentford,1,0,3,3
+497542,436105,Brentford,Aston Villa,1,0,1,2
+497542,416072,Brentford,Aston Villa,0,0,1,1
+497542,416264,Aston Villa,Brentford,3,0,4,0
+497543,436142,Wolverhampton,Everton,1,0,3,0
+497543,435969,Everton,Wolverhampton,0,0,0,1
+497543,416015,Wolverhampton,Everton,1,0,1,1
+497543,416219,Everton,Wolverhampton,1,1,1,2
+497544,436206,Fulham,Brighton Hove,2,0,3,0
+497544,436036,Brighton Hove,Fulham,1,0,1,1
+497544,416152,Brighton Hove,Fulham,0,0,0,1
+497544,416342,Fulham,Brighton Hove,0,0,2,1
+497546,416007,Leicester City,West Ham,1,0,2,1
+497546,416226,West Ham,Leicester City,0,1,0,2
+497547,436289,Nottingham,Man City,0,1,0,2
+497547,436001,Man City,Nottingham,2,0,2,0
+497547,416147,Nottingham,Man City,0,1,1,1
+497547,416335,Man City,Nottingham,3,0,6,0
+497548,436136,Liverpool,Newcastle,0,0,4,2
+497548,435971,Newcastle,Liverpool,1,0,1,2
+497548,416148,Newcastle,Liverpool,0,2,0,2
+497548,416336,Liverpool,Newcastle,0,1,2,1
+497549,416151,Chelsea,Southampton,0,1,0,1
+497549,416337,Southampton,Chelsea,2,1,2,1
+497550,416176,Southampton,Aston Villa,0,0,0,1
+497550,416314,Aston Villa,Southampton,1,0,1,0
+497551,436314,Brentford,Newcastle,0,3,2,4
+497551,435988,Newcastle,Brentford,0,0,1,0
+497551,416093,Brentford,Newcastle,1,0,1,2
+497551,416287,Newcastle,Brentford,2,0,5,1
+497552,436255,Crystal Palace,Man City,1,1,2,4
+497552,436109,Man City,Crystal Palace,1,0,2,2
+497552,416123,Crystal Palace,Man City,0,0,0,1
+497552,416348,Man City,Crystal Palace,0,2,4,2
+497553,436227,Everton,Liverpool,1,0,2,0
+497553,436027,Liverpool,Everton,0,0,2,0
+497553,416158,Liverpool,Everton,1,0,2,0
+497553,416330,Everton,Liverpool,0,0,0,0
+497554,436135,Fulham,Arsenal,1,1,2,1
+497554,435964,Arsenal,Fulham,0,1,2,2
+497554,416121,Fulham,Arsenal,0,3,0,3
+497554,416354,Arsenal,Fulham,0,0,2,1
+497556,416179,Leicester City,Brighton Hove,1,1,2,2
+497556,416332,Brighton Hove,Leicester City,2,2,5,2
+497557,436139,Nottingham,Man United,0,0,2,1
+497557,435970,Man United,Nottingham,1,2,3,2
+497557,416079,Nottingham,Man United,0,1,0,2
+497557,416216,Man United,Nottingham,2,0,3,0
+497558,436197,Chelsea,Tottenham,1,0,2,0
+497558,436052,Tottenham,Chelsea,1,1,1,4
+497558,416136,Tottenham,Chelsea,0,0,2,0
+497558,416370,Chelsea,Tottenham,1,0,2,2
+497559,436262,Wolverhampton,West Ham,1,0,1,2
+497559,436112,West Ham,Wolverhampton,2,0,3,0
+497559,416185,Wolverhampton,West Ham,0,0,1,0
+497559,416295,West Ham,Wolverhampton,1,0,2,0
+497560,436154,West Ham,Bournemouth,0,1,1,1
+497560,435945,Bournemouth,West Ham,0,0,1,1
+497560,416073,Bournemouth,West Ham,0,3,0,4
+497560,416256,West Ham,Bournemouth,1,0,2,0
+497561,436313,Arsenal,Everton,1,1,2,1
+497561,435985,Everton,Arsenal,0,0,0,1
+497561,416324,Arsenal,Everton,2,0,4,0
+497561,416170,Everton,Arsenal,0,0,1,0
+497562,436166,Brighton Hove,Crystal Palace,3,0,4,1
+497562,436114,Crystal Palace,Brighton Hove,1,0,1,1
+497562,416312,Brighton Hove,Crystal Palace,1,0,1,0
+497562,416162,Crystal Palace,Brighton Hove,0,0,1,1
+497563,436203,Brentford,Chelsea,0,1,2,2
+497563,436037,Chelsea,Brentford,0,0,0,2
+497563,416057,Chelsea,Brentford,0,1,0,2
+497563,416272,Brentford,Chelsea,0,0,0,0
+497564,436277,Fulham,Liverpool,1,1,1,3
+497564,436078,Liverpool,Fulham,2,2,4,3
+497564,416109,Liverpool,Fulham,1,0,1,0
+497564,416383,Fulham,Liverpool,1,0,2,2
+497565,436208,Man City,Man United,0,1,3,1
+497565,436040,Man United,Man City,0,1,0,3
+497565,416189,Man United,Man City,0,0,2,1
+497565,416297,Man City,Man United,4,0,6,3
+497566,416019,Newcastle,Leicester City,0,0,0,0
+497566,416217,Leicester City,Newcastle,0,3,0,3
+497567,436195,Aston Villa,Nottingham,3,1,4,2
+497567,436050,Nottingham,Aston Villa,1,0,2,0
+497567,416094,Aston Villa,Nottingham,0,0,2,0
+497567,416286,Nottingham,Aston Villa,1,1,1,1
+497568,416106,Southampton,Tottenham,0,1,3,3
+497568,416378,Tottenham,Southampton,2,1,4,1
+497570,436252,Man City,Aston Villa,2,1,4,1
+497570,436083,Aston Villa,Man City,0,0,1,0
+497570,416157,Man City,Aston Villa,3,0,3,1
+497570,416334,Aston Villa,Man City,0,0,1,1
+497571,436145,Brentford,Nottingham,1,1,3,2
+497571,436009,Nottingham,Brentford,0,0,1,1
+497571,416052,Brentford,Nottingham,0,1,2,1
+497571,416239,Nottingham,Brentford,1,1,2,2
+497572,436144,Arsenal,Crystal Palace,2,0,5,0
+497572,435954,Crystal Palace,Arsenal,0,0,0,1
+497572,416114,Arsenal,Crystal Palace,2,0,4,1
+497572,416384,Crystal Palace,Arsenal,0,1,0,2
+497573,436267,Chelsea,Everton,4,0,6,0
+497573,436096,Everton,Chelsea,0,0,2,0
+497573,416110,Chelsea,Everton,0,0,2,2
+497573,416377,Everton,Chelsea,0,1,0,1
+497574,416025,Southampton,Fulham,0,0,0,2
+497574,416212,Fulham,Southampton,1,0,2,1
+497576,416068,Leicester City,Wolverhampton,1,1,2,1
+497576,416255,Wolverhampton,Leicester City,0,2,0,4
+497577,436263,Bournemouth,Man United,2,1,2,2
+497577,436099,Man United,Bournemouth,0,1,0,3
+497577,416024,Bournemouth,Man United,0,1,0,1
+497577,416196,Man United,Bournemouth,1,0,3,0
+497578,436299,Liverpool,Tottenham,2,0,4,2
+497578,436010,Tottenham,Liverpool,1,1,2,1
+497578,416047,Liverpool,Tottenham,3,1,4,3
+497578,416237,Tottenham,Liverpool,0,2,1,2
+497579,436141,West Ham,Brighton Hove,0,0,0,0
+497579,435966,Brighton Hove,West Ham,0,1,1,3
+497579,416131,Brighton Hove,West Ham,1,0,4,0
+497579,416355,West Ham,Brighton Hove,0,1,0,2
+497580,436243,Bournemouth,Crystal Palace,0,0,1,0
+497580,436091,Crystal Palace,Bournemouth,0,1,0,2
+497580,416030,Crystal Palace,Bournemouth,1,0,2,0
+497580,416214,Bournemouth,Crystal Palace,0,2,0,2
+497582,436245,Brentford,Brighton Hove,0,0,0,0
+497582,436084,Brighton Hove,Brentford,1,1,2,1
+497582,416102,Brighton Hove,Brentford,2,2,3,3
+497582,416283,Brentford,Brighton Hove,1,0,2,0
+497583,436148,Chelsea,Fulham,1,0,1,0
+497583,436006,Fulham,Chelsea,0,2,0,2
+497583,416171,Chelsea,Fulham,0,0,0,0
+497583,416321,Fulham,Chelsea,1,0,2,1
+497584,416027,Leicester City,Liverpool,0,2,0,3
+497584,416211,Liverpool,Leicester City,2,1,2,1
+497585,436178,Man City,Everton,0,0,2,0
+497585,436129,Everton,Man City,1,0,1,3
+497585,416029,Everton,Man City,0,2,0,3
+497585,416210,Man City,Everton,1,0,1,1
+497586,436158,Aston Villa,Newcastle,0,2,1,3
+497586,435949,Newcastle,Aston Villa,2,1,5,1
+497586,416084,Aston Villa,Newcastle,1,0,3,0
+497586,416245,Newcastle,Aston Villa,1,0,4,0
+497587,436261,Tottenham,Nottingham,1,1,3,1
+497587,436111,Nottingham,Tottenham,0,1,0,2
+497587,416116,Tottenham,Nottingham,2,0,3,1
+497587,416347,Nottingham,Tottenham,0,1,0,2
+497588,416095,West Ham,Southampton,1,0,1,0
+497588,416277,Southampton,West Ham,1,0,1,1
+497589,436160,Wolverhampton,Man United,0,2,3,4
+497589,435952,Man United,Wolverhampton,0,0,1,0
+497589,416026,Man United,Wolverhampton,1,0,2,0
+497589,416205,Wolverhampton,Man United,0,0,0,1
+497590,436295,Brighton Hove,Aston Villa,0,0,1,0
+497590,436004,Aston Villa,Brighton Hove,3,0,6,1
+497590,416013,Aston Villa,Brighton Hove,2,1,2,1
+497590,416233,Brighton Hove,Aston Villa,1,1,1,2
+497591,436214,Arsenal,Brentford,1,1,2,1
+497591,436063,Brentford,Arsenal,0,0,0,1
+497591,416164,Arsenal,Brentford,0,0,1,1
+497591,416313,Brentford,Arsenal,0,2,0,3
+497592,416078,Southampton,Crystal Palace,0,0,0,2
+497592,416250,Crystal Palace,Southampton,1,0,1,0
+497593,436276,Everton,Nottingham,1,0,2,0
+497593,436081,Nottingham,Everton,0,0,0,1
+497593,416127,Nottingham,Everton,1,2,2,2
+497593,416362,Everton,Nottingham,0,0,1,1
+497594,436175,Fulham,Bournemouth,2,0,3,1
+497594,436123,Bournemouth,Fulham,1,0,3,0
+497594,416103,Bournemouth,Fulham,0,1,2,1
+497594,416282,Fulham,Bournemouth,1,2,2,2
+497596,416080,Man City,Leicester City,3,0,3,1
+497596,416248,Leicester City,Man City,0,0,0,1
+497597,436279,Man United,Newcastle,1,0,3,2
+497597,436080,Newcastle,Man United,0,0,1,0
+497597,416097,Newcastle,Man United,0,0,2,0
+497597,416278,Man United,Newcastle,0,0,0,0
+497598,436192,Tottenham,Wolverhampton,0,1,1,2
+497598,436062,Wolverhampton,Tottenham,0,1,2,1
+497598,416125,Wolverhampton,Tottenham,0,0,1,0
+497598,416356,Tottenham,Wolverhampton,0,0,1,0
+497599,436291,West Ham,Liverpool,1,0,2,2
+497599,435999,Liverpool,West Ham,1,1,3,1
+497599,416060,West Ham,Liverpool,1,1,1,2
+497599,416266,Liverpool,West Ham,1,0,1,0
+497600,497430,Arsenal,Brighton Hove,1,0,1,1
+497600,436254,Brighton Hove,Arsenal,0,1,0,3
+497600,436104,Arsenal,Brighton Hove,0,0,2,0
+497600,416034,Arsenal,Brighton Hove,0,0,0,3
+497600,416213,Brighton Hove,Arsenal,0,2,2,4
+497601,497431,Brentford,Southampton,1,0,3,1
+497601,416316,Southampton,Brentford,0,1,0,2
+497601,416173,Brentford,Southampton,2,0,3,0
+497602,497432,Chelsea,Crystal Palace,1,0,1,1
+497602,436174,Crystal Palace,Chelsea,1,0,1,3
+497602,436128,Chelsea,Crystal Palace,1,1,2,1
+497602,416191,Chelsea,Crystal Palace,0,0,1,0
+497602,416302,Crystal Palace,Chelsea,1,1,1,2
+497603,497433,Everton,Bournemouth,0,0,2,3
+497603,436233,Bournemouth,Everton,0,0,2,1
+497603,436017,Everton,Bournemouth,2,0,3,0
+497603,416009,Everton,Bournemouth,0,0,1,0
+497603,416234,Bournemouth,Everton,2,0,3,0
+497604,497434,Ipswich Town,Fulham,1,1,1,1
+497605,497435,Leicester City,Aston Villa,0,1,1,2
+497605,416319,Leicester City,Aston Villa,1,1,1,2
+497605,416174,Aston Villa,Leicester City,2,3,2,4
+497606,497436,Man United,Liverpool,0,2,0,3
+497606,436259,Man United,Liverpool,0,1,2,2
+497606,436108,Liverpool,Man United,0,0,0,0
+497606,416129,Liverpool,Man United,1,0,7,0
+497606,416358,Man United,Liverpool,1,0,2,1
+497607,497437,Newcastle,Tottenham,1,0,2,1
+497607,436270,Newcastle,Tottenham,2,0,4,0
+497607,436101,Tottenham,Newcastle,2,0,4,1
+497607,416065,Newcastle,Tottenham,5,0,6,1
+497607,416257,Tottenham,Newcastle,0,2,1,2
+497608,497438,Nottingham,Wolverhampton,1,1,1,1
+497608,436271,Nottingham,Wolverhampton,1,1,2,2
+497608,436102,Wolverhampton,Nottingham,1,1,1,1
+497608,416096,Nottingham,Wolverhampton,1,0,1,1
+497608,416275,Wolverhampton,Nottingham,0,0,1,0
+497609,497439,West Ham,Man City,1,2,1,3
+497609,436321,Man City,West Ham,2,1,3,1
+497609,435991,West Ham,Man City,1,0,1,3
+497609,416108,Man City,West Ham,0,0,3,0
+497609,416375,West Ham,Man City,0,1,0,2
+497610,497441,Aston Villa,Everton,1,2,3,2
+497610,436149,Everton,Aston Villa,0,0,0,0
+497610,435953,Aston Villa,Everton,2,0,4,0
+497610,416142,Everton,Aston Villa,0,0,0,2
+497610,416373,Aston Villa,Everton,1,0,2,1
+497611,497442,Brighton Hove,Ipswich Town,0,0,0,0
+497612,497443,Crystal Palace,Leicester City,0,1,2,2
+497612,416100,Crystal Palace,Leicester City,0,0,2,1
+497612,416280,Leicester City,Crystal Palace,0,0,0,0
+497613,497444,Fulham,West Ham,1,0,1,1
+497613,436272,West Ham,Fulham,0,1,0,2
+497613,436097,Fulham,West Ham,3,0,5,0
+497613,416092,Fulham,West Ham,0,1,0,1
+497613,416285,West Ham,Fulham,1,1,3,1
+497614,497445,Liverpool,Nottingham,0,0,0,1
+497614,436210,Nottingham,Liverpool,0,0,0,1
+497614,436039,Liverpool,Nottingham,2,0,3,0
+497614,416067,Liverpool,Nottingham,0,0,3,2
+497614,416259,Nottingham,Liverpool,0,0,1,0
+497615,497446,Man City,Brentford,2,1,2,1
+497615,436118,Man City,Brentford,0,0,1,0
+497615,436165,Brentford,Man City,1,1,1,3
+497615,416012,Brentford,Man City,0,0,1,0
+497615,416230,Man City,Brentford,1,1,1,2
+497616,497448,Tottenham,Arsenal,0,0,0,1
+497616,436290,Tottenham,Arsenal,0,3,2,3
+497616,435993,Arsenal,Tottenham,1,1,2,2
+497616,416186,Tottenham,Arsenal,0,2,0,2
+497616,416304,Arsenal,Tottenham,1,1,3,1
+497617,497440,Bournemouth,Chelsea,0,0,0,1
+497617,436317,Chelsea,Bournemouth,1,0,2,1
+497617,435983,Bournemouth,Chelsea,0,0,0,0
+497617,416044,Bournemouth,Chelsea,1,1,1,3
+497617,416221,Chelsea,Bournemouth,2,0,2,0
+497618,497447,Southampton,Man United,0,2,0,3
+497618,416118,Man United,Southampton,0,0,0,0
+497618,416346,Southampton,Man United,0,0,0,1
+497619,497449,Wolverhampton,Newcastle,1,0,1,2
+497619,436209,Newcastle,Wolverhampton,2,0,3,0
+497619,436042,Wolverhampton,Newcastle,1,2,2,2
+497619,416117,Newcastle,Wolverhampton,1,0,2,1
+497619,416345,Wolverhampton,Newcastle,1,0,1,1
+497620,497420,Bournemouth,Newcastle,1,0,1,1
+497620,436189,Newcastle,Bournemouth,0,0,2,2
+497620,436053,Bournemouth,Newcastle,0,0,2,0
+497620,416163,Bournemouth,Newcastle,1,1,1,1
+497620,416308,Newcastle,Bournemouth,0,0,1,1
+497621,497421,Aston Villa,Arsenal,0,0,0,2
+497621,436264,Arsenal,Aston Villa,0,0,0,2
+497621,436093,Aston Villa,Arsenal,1,0,1,0
+497621,416154,Aston Villa,Arsenal,2,1,2,4
+497621,416344,Arsenal,Aston Villa,1,0,2,1
+497622,497422,Brighton Hove,Man United,1,0,2,1
+497622,436315,Brighton Hove,Man United,0,0,0,2
+497622,435987,Man United,Brighton Hove,0,1,1,3
+497622,416111,Brighton Hove,Man United,0,0,1,0
+497622,416376,Man United,Brighton Hove,0,2,1,2
+497623,497423,Crystal Palace,West Ham,0,0,0,2
+497623,436275,Crystal Palace,West Ham,4,1,5,2
+497623,436082,West Ham,Crystal Palace,1,0,1,1
+497623,416050,Crystal Palace,West Ham,3,2,4,3
+497623,416236,West Ham,Crystal Palace,1,1,1,2
+497624,497424,Fulham,Leicester City,1,1,2,1
+497624,416042,Fulham,Leicester City,3,0,5,3
+497624,416197,Leicester City,Fulham,0,1,0,1
+497625,497425,Liverpool,Brentford,1,0,2,0
+497625,436183,Brentford,Liverpool,0,1,1,4
+497625,436059,Liverpool,Brentford,1,0,3,0
+497625,416041,Liverpool,Brentford,1,0,1,0
+497625,416202,Brentford,Liverpool,2,0,3,1
+497626,497426,Man City,Ipswich Town,3,1,4,1
+497627,497427,Southampton,Nottingham,0,0,0,1
+497627,416038,Nottingham,Southampton,3,1,4,3
+497627,416195,Southampton,Nottingham,0,1,0,1
+497628,497428,Tottenham,Everton,2,0,4,0
+497628,436169,Everton,Tottenham,1,2,2,2
+497628,436120,Tottenham,Everton,2,0,2,1
+497628,416099,Everton,Tottenham,0,0,1,1
+497628,416276,Tottenham,Everton,0,0,2,0
+497629,497429,Wolverhampton,Chelsea,2,2,2,6
+497629,436168,Chelsea,Wolverhampton,1,2,2,4
+497629,436122,Wolverhampton,Chelsea,0,0,2,1
+497629,416085,Wolverhampton,Chelsea,1,0,1,0
+497629,416291,Chelsea,Wolverhampton,1,0,3,0
+497630,497410,Man United,Fulham,0,0,1,0
+497630,436200,Man United,Fulham,0,0,1,2
+497630,436046,Fulham,Man United,0,0,0,1
+497630,416006,Man United,Fulham,1,1,2,1
+497630,416232,Fulham,Man United,0,1,1,2
+497631,497411,Ipswich Town,Liverpool,0,0,0,2
+497632,497412,Arsenal,Wolverhampton,1,0,2,0
+497632,436282,Wolverhampton,Arsenal,0,1,0,2
+497632,436074,Arsenal,Wolverhampton,2,0,2,1
+497632,416014,Arsenal,Wolverhampton,3,0,5,0
+497632,416225,Wolverhampton,Arsenal,0,0,0,2
+497633,497413,Everton,Brighton Hove,0,1,0,3
+497633,436196,Brighton Hove,Everton,0,0,1,1
+497633,436045,Everton,Brighton Hove,1,0,1,1
+497633,416043,Brighton Hove,Everton,0,3,1,5
+497633,416199,Everton,Brighton Hove,0,1,1,4
+497634,497414,Newcastle,Southampton,1,0,1,0
+497634,416045,Newcastle,Southampton,0,1,3,1
+497634,416238,Southampton,Newcastle,0,1,1,4
+497635,497415,Nottingham,Bournemouth,1,0,1,1
+497635,436163,Bournemouth,Nottingham,1,1,1,1
+497635,436119,Nottingham,Bournemouth,0,0,2,3
+497635,416183,Bournemouth,Nottingham,1,0,1,1
+497635,416327,Nottingham,Bournemouth,2,0,2,3
+497636,497416,West Ham,Aston Villa,1,1,1,2
+497636,436231,West Ham,Aston Villa,1,0,1,1
+497636,436024,Aston Villa,West Ham,1,0,4,1
+497636,416115,West Ham,Aston Villa,1,1,1,1
+497636,416353,Aston Villa,West Ham,0,0,0,1
+497637,497417,Brentford,Crystal Palace,1,0,2,1
+497637,436134,Crystal Palace,Brentford,2,1,3,1
+497637,435965,Brentford,Crystal Palace,1,0,1,1
+497637,416153,Brentford,Crystal Palace,0,0,1,1
+497637,416338,Crystal Palace,Brentford,0,0,1,1
+497638,497418,Chelsea,Man City,0,1,0,2
+497638,436188,Man City,Chelsea,0,1,1,1
+497638,436057,Chelsea,Man City,2,2,4,4
+497638,416020,Man City,Chelsea,1,0,1,0
+497638,416201,Chelsea,Man City,0,0,0,1
+497639,497419,Leicester City,Tottenham,0,1,1,1
+497639,416159,Leicester City,Tottenham,3,1,4,1
+497639,416306,Tottenham,Leicester City,2,2,6,2
+497640,497450,Aston Villa,Wolverhampton,0,1,3,1
+497640,436234,Aston Villa,Wolverhampton,1,0,2,0
+497640,436022,Wolverhampton,Aston Villa,0,0,1,1
+497640,416035,Wolverhampton,Aston Villa,1,0,1,0
+497640,416203,Aston Villa,Wolverhampton,0,1,1,1
+497641,497451,Brighton Hove,Nottingham,2,1,2,2
+497641,436216,Brighton Hove,Nottingham,1,0,1,0
+497641,436070,Nottingham,Brighton Hove,1,2,2,3
+497641,416062,Nottingham,Brighton Hove,1,1,3,1
+497641,416271,Brighton Hove,Nottingham,0,0,0,0
+497642,497452,Crystal Palace,Man United,0,0,0,0
+497642,436298,Crystal Palace,Man United,2,0,4,0
+497642,436007,Man United,Crystal Palace,0,1,0,1
+497642,416169,Man United,Crystal Palace,1,0,2,1
+497642,416322,Crystal Palace,Man United,0,1,1,1
+497643,497453,Fulham,Newcastle,2,0,3,1
+497643,436257,Fulham,Newcastle,0,0,0,1
+497643,436110,Newcastle,Fulham,0,0,3,0
+497643,416188,Newcastle,Fulham,0,0,1,0
+497643,416301,Fulham,Newcastle,0,3,1,4
+497644,497454,Leicester City,Everton,0,1,1,1
+497644,416048,Leicester City,Everton,2,1,2,2
+497644,416242,Everton,Leicester City,0,1,0,2
+497645,497455,Liverpool,Bournemouth,3,0,3,0
+497645,436143,Bournemouth,Liverpool,0,0,0,4
+497645,435956,Liverpool,Bournemouth,2,1,3,1
+497645,416124,Bournemouth,Liverpool,1,0,1,0
+497645,416349,Liverpool,Bournemouth,5,0,9,0
+497646,497456,Man City,Arsenal,1,2,2,2
+497646,436238,Man City,Arsenal,0,0,0,0
+497646,436013,Arsenal,Man City,0,0,1,0
+497646,416055,Man City,Arsenal,2,0,4,1
+497646,416274,Arsenal,Man City,1,1,1,3
+497647,497457,Southampton,Ipswich Town,1,0,1,1
+497647,437147,Ipswich Town,Southampton,1,2,3,2
+497647,436749,Southampton,Ipswich Town,0,1,0,1
+497648,497458,Tottenham,Brentford,2,1,3,1
+497648,436159,Tottenham,Brentford,0,1,3,2
+497648,435950,Brentford,Tottenham,2,2,2,2
+497648,416017,Tottenham,Brentford,1,0,1,3
+497648,416222,Brentford,Tottenham,1,0,2,2
+497649,497459,West Ham,Chelsea,0,2,0,3
+497649,436297,Chelsea,West Ham,3,0,5,0
+497649,435961,West Ham,Chelsea,1,1,3,1
+497649,416155,West Ham,Chelsea,1,1,1,1
+497649,416331,Chelsea,West Ham,0,0,2,1
+497650,497460,Bournemouth,Southampton,3,0,3,1
+497650,416056,Southampton,Bournemouth,0,0,0,1
+497650,416273,Bournemouth,Southampton,0,1,0,1
+497651,497461,Arsenal,Leicester City,2,0,4,2
+497651,416139,Leicester City,Arsenal,0,0,0,1
+497651,416374,Arsenal,Leicester City,2,0,4,2
+497652,497462,Brentford,West Ham,1,0,1,1
+497652,436201,West Ham,Brentford,2,1,4,2
+497652,436043,Brentford,West Ham,1,2,3,2
+497652,416032,Brentford,West Ham,2,0,2,0
+497652,416206,West Ham,Brentford,0,2,0,2
+497653,497463,Chelsea,Brighton Hove,4,2,4,2
+497653,436274,Brighton Hove,Chelsea,0,1,1,2
+497653,436077,Chelsea,Brighton Hove,2,1,3,2
+497653,416083,Chelsea,Brighton Hove,1,1,1,2
+497653,416251,Brighton Hove,Chelsea,3,0,4,1
+497654,497464,Everton,Crystal Palace,0,1,2,1
+497654,436185,Everton,Crystal Palace,0,0,1,1
+497654,436058,Crystal Palace,Everton,1,1,2,3
+497654,416070,Crystal Palace,Everton,0,0,0,0
+497654,416262,Everton,Crystal Palace,1,0,3,0
+497655,497465,Ipswich Town,Aston Villa,1,2,2,2
+497656,497466,Man United,Tottenham,0,1,0,3
+497656,436150,Man United,Tottenham,2,1,2,2
+497656,435960,Tottenham,Man United,0,0,2,0
+497656,416061,Tottenham,Man United,0,2,2,2
+497656,416265,Man United,Tottenham,0,0,2,0
+497657,497467,Newcastle,Man City,0,1,1,1
+497657,436151,Newcastle,Man City,2,1,2,3
+497657,435958,Man City,Newcastle,1,0,1,0
+497657,416128,Man City,Newcastle,1,0,2,0
+497657,416357,Newcastle,Man City,2,1,3,3
+497658,497468,Nottingham,Fulham,0,0,0,1
+497658,436247,Nottingham,Fulham,3,0,3,1
+497658,436086,Fulham,Nottingham,2,0,5,0
+497658,416161,Fulham,Nottingham,1,0,2,0
+497658,416307,Nottingham,Fulham,1,0,2,3
+497659,497469,Wolverhampton,Liverpool,0,1,1,2
+497659,436319,Liverpool,Wolverhampton,2,0,2,0
+497659,435992,Wolverhampton,Liverpool,1,0,1,3
+497659,416318,Liverpool,Wolverhampton,0,0,2,0
+497659,416165,Wolverhampton,Liverpool,2,0,3,0
+497664,436219,Liverpool,Man City,0,1,1,1
+497664,436068,Man City,Liverpool,1,0,1,1
+497664,416098,Man City,Liverpool,1,1,4,1
+497664,416279,Liverpool,Man City,0,0,1,0
+497665,436220,Man United,Everton,2,0,2,0
+497665,436065,Everton,Man United,0,1,0,3
+497665,416088,Man United,Everton,1,0,2,0
+497665,416289,Everton,Man United,1,2,1,2
+497667,436286,Fulham,Crystal Palace,0,0,1,1
+497667,435998,Crystal Palace,Fulham,0,0,0,0
+497667,416022,Fulham,Crystal Palace,1,1,2,2
+497667,416220,Crystal Palace,Fulham,0,1,0,3
+497668,436181,West Ham,Arsenal,0,4,0,6
+497668,436124,Arsenal,West Ham,0,1,0,2
+497668,416076,West Ham,Arsenal,1,2,2,2
+497668,416224,Arsenal,West Ham,0,1,3,1
+497669,436232,Wolverhampton,Bournemouth,0,1,0,1
+497669,436023,Bournemouth,Wolverhampton,1,0,1,2
+497669,416145,Wolverhampton,Bournemouth,0,0,0,1
+497669,416343,Bournemouth,Wolverhampton,0,0,0,0
+497660,416112,Brentford,Leicester City,1,0,1,1
+497660,416380,Leicester City,Brentford,1,0,2,2
+497661,416023,Brighton Hove,Southampton,2,0,3,1
+497661,416215,Southampton,Brighton Hove,0,2,1,3
+497662,436284,Aston Villa,Chelsea,2,0,2,2
+497662,435997,Chelsea,Aston Villa,0,0,0,1
+497662,416101,Chelsea,Aston Villa,0,1,0,2
+497662,416284,Aston Villa,Chelsea,0,1,0,2
+497663,436179,Nottingham,Newcastle,2,2,2,3
+497663,436131,Newcastle,Nottingham,1,1,1,3
+497663,416107,Nottingham,Newcastle,1,1,1,2
+497663,416379,Newcastle,Nottingham,0,0,2,0
+497670,436283,Bournemouth,Brighton Hove,1,0,3,0
+497670,435995,Brighton Hove,Bournemouth,1,1,3,1
+497670,416323,Bournemouth,Brighton Hove,0,1,0,2
+497670,416172,Brighton Hove,Bournemouth,0,0,1,0
+497671,436153,Nottingham,Arsenal,0,0,1,2
+497671,435944,Arsenal,Nottingham,2,0,2,1
+497671,416018,Nottingham,Arsenal,1,0,1,0
+497671,416254,Arsenal,Nottingham,1,0,5,0
+497672,436318,Crystal Palace,Aston Villa,2,0,5,0
+497672,435984,Aston Villa,Crystal Palace,0,0,3,1
+497672,416133,Aston Villa,Crystal Palace,1,0,1,0
+497672,416363,Crystal Palace,Aston Villa,1,1,3,1
+497673,436285,Everton,Brentford,0,0,1,0
+497673,435994,Brentford,Everton,1,1,1,3
+497673,416122,Everton,Brentford,1,0,1,0
+497673,416352,Brentford,Everton,0,1,1,1
+497674,436222,Wolverhampton,Fulham,0,0,2,1
+497674,436066,Fulham,Wolverhampton,1,1,3,2
+497674,416141,Fulham,Wolverhampton,0,1,1,1
+497674,416365,Wolverhampton,Fulham,0,0,0,0
+497675,436281,Tottenham,Man City,0,0,0,2
+497675,436079,Man City,Tottenham,2,1,3,3
+497675,416166,Tottenham,Man City,1,0,1,0
+497675,416317,Man City,Tottenham,0,2,4,2
+497676,416007,Leicester City,West Ham,1,0,2,1
+497676,416226,West Ham,Leicester City,0,1,0,2
+497678,416151,Chelsea,Southampton,0,1,0,1
+497678,416337,Southampton,Chelsea,2,1,2,1
+497679,436136,Liverpool,Newcastle,0,0,4,2
+497679,435971,Newcastle,Liverpool,1,0,1,2
+497679,416148,Newcastle,Liverpool,0,2,0,2
+497679,416336,Liverpool,Newcastle,0,1,2,1
+497680,436140,Tottenham,Bournemouth,1,0,3,1
+497680,435963,Bournemouth,Tottenham,0,1,0,2
+497680,416077,Tottenham,Bournemouth,1,1,2,3
+497680,416253,Bournemouth,Tottenham,1,0,2,3
+497681,436307,Man United,Arsenal,0,1,0,1
+497681,435973,Arsenal,Man United,1,1,3,1
+497681,416184,Arsenal,Man United,1,1,3,2
+497681,416329,Man United,Arsenal,1,0,3,1
+497682,436253,Aston Villa,Brentford,1,0,3,3
+497682,436105,Brentford,Aston Villa,1,0,1,2
+497682,416072,Brentford,Aston Villa,0,0,1,1
+497682,416264,Aston Villa,Brentford,3,0,4,0
+497683,436142,Wolverhampton,Everton,1,0,3,0
+497683,435969,Everton,Wolverhampton,0,0,0,1
+497683,416015,Wolverhampton,Everton,1,0,1,1
+497683,416219,Everton,Wolverhampton,1,1,1,2
+497684,436206,Fulham,Brighton Hove,2,0,3,0
+497684,436036,Brighton Hove,Fulham,1,0,1,1
+497684,416152,Brighton Hove,Fulham,0,0,0,1
+497684,416342,Fulham,Brighton Hove,0,0,2,1
+497686,436239,Newcastle,West Ham,1,2,4,3
+497686,436021,West Ham,Newcastle,1,0,2,2
+497686,416315,West Ham,Newcastle,1,2,1,5
+497686,416168,Newcastle,West Ham,1,1,1,1
+497687,436289,Nottingham,Man City,0,1,0,2
+497687,436001,Man City,Nottingham,2,0,2,0
+497687,416147,Nottingham,Man City,0,1,1,1
+497687,416335,Man City,Nottingham,3,0,6,0
+497688,416005,Southampton,Liverpool,2,2,4,4
+497688,416231,Liverpool,Southampton,3,1,3,1
+497689,416119,Leicester City,Chelsea,1,2,1,3
+497689,416350,Chelsea,Leicester City,0,0,2,1
+497690,436303,Bournemouth,Brentford,0,0,1,2
+497690,435974,Brentford,Bournemouth,1,1,2,2
+497690,416193,Brentford,Bournemouth,1,0,2,0
+497690,416303,Bournemouth,Brentford,0,0,0,0
+497691,436223,Arsenal,Chelsea,1,0,5,0
+497691,436026,Chelsea,Arsenal,1,0,2,2
+497691,416054,Arsenal,Chelsea,3,0,3,1
+497691,416243,Chelsea,Arsenal,0,0,0,1
+497692,436304,Aston Villa,Liverpool,1,2,3,3
+497692,435979,Liverpool,Aston Villa,2,0,3,0
+497692,416021,Liverpool,Aston Villa,0,1,1,1
+497692,416223,Aston Villa,Liverpool,0,2,1,3
+497693,436205,Everton,West Ham,0,0,1,3
+497693,436041,West Ham,Everton,0,0,0,1
+497693,416175,West Ham,Everton,2,0,2,0
+497693,416310,Everton,West Ham,0,0,1,0
+497694,436228,Fulham,Tottenham,1,0,3,0
+497694,436032,Tottenham,Fulham,1,0,2,0
+497694,416181,Fulham,Tottenham,0,1,0,1
+497694,416326,Tottenham,Fulham,1,0,2,1
+497696,416149,Man United,Leicester City,1,0,3,0
+497696,416340,Leicester City,Man United,0,1,0,1
+497697,436224,Brighton Hove,Man City,0,3,0,4
+497697,436028,Man City,Brighton Hove,2,0,2,1
+497697,416071,Brighton Hove,Man City,1,1,1,1
+497697,416260,Man City,Brighton Hove,2,0,3,1
+497698,436226,Crystal Palace,Newcastle,0,0,2,0
+497698,436029,Newcastle,Crystal Palace,3,0,4,0
+497698,416182,Crystal Palace,Newcastle,0,0,0,0
+497698,416328,Newcastle,Crystal Palace,0,0,0,0
+497699,416156,Southampton,Wolverhampton,1,0,1,2
+497699,416325,Wolverhampton,Southampton,1,0,1,0
+497701,436135,Fulham,Arsenal,1,1,2,1
+497701,435964,Arsenal,Fulham,0,1,2,2
+497701,416121,Fulham,Arsenal,0,3,0,3
+497701,416354,Arsenal,Fulham,0,0,2,1
+497702,436295,Brighton Hove,Aston Villa,0,0,1,0
+497702,436004,Aston Villa,Brighton Hove,3,0,6,1
+497702,416013,Aston Villa,Brighton Hove,2,1,2,1
+497702,416233,Brighton Hove,Aston Villa,1,1,1,2
+497703,436139,Nottingham,Man United,0,0,2,1
+497703,435970,Man United,Nottingham,1,2,3,2
+497703,416079,Nottingham,Man United,0,1,0,2
+497703,416216,Man United,Nottingham,2,0,3,0
+497704,436262,Wolverhampton,West Ham,1,0,1,2
+497704,436112,West Ham,Wolverhampton,2,0,3,0
+497704,416185,Wolverhampton,West Ham,0,0,1,0
+497704,416295,West Ham,Wolverhampton,1,0,2,0
+497705,436197,Chelsea,Tottenham,1,0,2,0
+497705,436052,Tottenham,Chelsea,1,1,1,4
+497705,416136,Tottenham,Chelsea,0,0,2,0
+497705,416370,Chelsea,Tottenham,1,0,2,2
+497706,416080,Man City,Leicester City,3,0,3,1
+497706,416248,Leicester City,Man City,0,0,0,1
+497707,436314,Brentford,Newcastle,0,3,2,4
+497707,435988,Newcastle,Brentford,0,0,1,0
+497707,416093,Brentford,Newcastle,1,0,1,2
+497707,416287,Newcastle,Brentford,2,0,5,1
+497708,416078,Southampton,Crystal Palace,0,0,0,2
+497708,416250,Crystal Palace,Southampton,1,0,1,0
+497709,436227,Everton,Liverpool,1,0,2,0
+497709,436027,Liverpool,Everton,0,0,2,0
+497709,416158,Liverpool,Everton,1,0,2,0
+497709,416330,Everton,Liverpool,0,0,0,0
+497710,436195,Aston Villa,Nottingham,3,1,4,2
+497710,436050,Nottingham,Aston Villa,1,0,2,0
+497710,416094,Aston Villa,Nottingham,0,0,2,0
+497710,416286,Nottingham,Aston Villa,1,1,1,1
+497711,436203,Brentford,Chelsea,0,1,2,2
+497711,436037,Chelsea,Brentford,0,0,0,2
+497711,416057,Chelsea,Brentford,0,1,0,2
+497711,416272,Brentford,Chelsea,0,0,0,0
+497712,436166,Brighton Hove,Crystal Palace,3,0,4,1
+497712,436114,Crystal Palace,Brighton Hove,1,0,1,1
+497712,416312,Brighton Hove,Crystal Palace,1,0,1,0
+497712,416162,Crystal Palace,Brighton Hove,0,0,1,1
+497713,436313,Arsenal,Everton,1,1,2,1
+497713,435985,Everton,Arsenal,0,0,0,1
+497713,416324,Arsenal,Everton,2,0,4,0
+497713,416170,Everton,Arsenal,0,0,1,0
+497714,436277,Fulham,Liverpool,1,1,1,3
+497714,436078,Liverpool,Fulham,2,2,4,3
+497714,416109,Liverpool,Fulham,1,0,1,0
+497714,416383,Fulham,Liverpool,1,0,2,2
+497716,416019,Newcastle,Leicester City,0,0,0,0
+497716,416217,Leicester City,Newcastle,0,3,0,3
+497717,436208,Man City,Man United,0,1,3,1
+497717,436040,Man United,Man City,0,1,0,3
+497717,416189,Man United,Man City,0,0,2,1
+497717,416297,Man City,Man United,4,0,6,3
+497718,416106,Southampton,Tottenham,0,1,3,3
+497718,416378,Tottenham,Southampton,2,1,4,1
+497719,436154,West Ham,Bournemouth,0,1,1,1
+497719,435945,Bournemouth,West Ham,0,0,1,1
+497719,416073,Bournemouth,West Ham,0,3,0,4
+497719,416256,West Ham,Bournemouth,1,0,2,0
+497720,436175,Fulham,Bournemouth,2,0,3,1
+497720,436123,Bournemouth,Fulham,1,0,3,0
+497720,416103,Bournemouth,Fulham,0,1,2,1
+497720,416282,Fulham,Bournemouth,1,2,2,2
+497721,436214,Arsenal,Brentford,1,1,2,1
+497721,436063,Brentford,Arsenal,0,0,0,1
+497721,416164,Arsenal,Brentford,0,0,1,1
+497721,416313,Brentford,Arsenal,0,2,0,3
+497722,416179,Leicester City,Brighton Hove,1,1,2,2
+497722,416332,Brighton Hove,Leicester City,2,2,5,2
+497724,436291,West Ham,Liverpool,1,0,2,2
+497724,435999,Liverpool,West Ham,1,1,3,1
+497724,416060,West Ham,Liverpool,1,1,1,2
+497724,416266,Liverpool,West Ham,1,0,1,0
+497725,436255,Crystal Palace,Man City,1,1,2,4
+497725,436109,Man City,Crystal Palace,1,0,2,2
+497725,416123,Crystal Palace,Man City,0,0,0,1
+497725,416348,Man City,Crystal Palace,0,2,4,2
+497726,436279,Man United,Newcastle,1,0,3,2
+497726,436080,Newcastle,Man United,0,0,1,0
+497726,416097,Newcastle,Man United,0,0,2,0
+497726,416278,Man United,Newcastle,0,0,0,0
+497727,436276,Everton,Nottingham,1,0,2,0
+497727,436081,Nottingham,Everton,0,0,0,1
+497727,416127,Nottingham,Everton,1,2,2,2
+497727,416362,Everton,Nottingham,0,0,1,1
+497728,416176,Southampton,Aston Villa,0,0,0,1
+497728,416314,Aston Villa,Southampton,1,0,1,0
+497729,436192,Tottenham,Wolverhampton,0,1,1,2
+497729,436062,Wolverhampton,Tottenham,0,1,2,1
+497729,416125,Wolverhampton,Tottenham,0,0,1,0
+497729,416356,Tottenham,Wolverhampton,0,0,1,0
+497730,436158,Aston Villa,Newcastle,0,2,1,3
+497730,435949,Newcastle,Aston Villa,2,1,5,1
+497730,416084,Aston Villa,Newcastle,1,0,3,0
+497730,416245,Newcastle,Aston Villa,1,0,4,0
+497731,436245,Brentford,Brighton Hove,0,0,0,0
+497731,436084,Brighton Hove,Brentford,1,1,2,1
+497731,416102,Brighton Hove,Brentford,2,2,3,3
+497731,416283,Brentford,Brighton Hove,1,0,2,0
+497732,436243,Bournemouth,Crystal Palace,0,0,1,0
+497732,436091,Crystal Palace,Bournemouth,0,1,0,2
+497732,416030,Crystal Palace,Bournemouth,1,0,2,0
+497732,416214,Bournemouth,Crystal Palace,0,2,0,2
+497733,436178,Man City,Everton,0,0,2,0
+497733,436129,Everton,Man City,1,0,1,3
+497733,416029,Everton,Man City,0,2,0,3
+497733,416210,Man City,Everton,1,0,1,1
+497734,436148,Chelsea,Fulham,1,0,1,0
+497734,436006,Fulham,Chelsea,0,2,0,2
+497734,416171,Chelsea,Fulham,0,0,0,0
+497734,416321,Fulham,Chelsea,1,0,2,1
+497736,416027,Leicester City,Liverpool,0,2,0,3
+497736,416211,Liverpool,Leicester City,2,1,2,1
+497737,436160,Wolverhampton,Man United,0,2,3,4
+497737,435952,Man United,Wolverhampton,0,0,1,0
+497737,416026,Man United,Wolverhampton,1,0,2,0
+497737,416205,Wolverhampton,Man United,0,0,0,1
+497738,436261,Tottenham,Nottingham,1,1,3,1
+497738,436111,Nottingham,Tottenham,0,1,0,2
+497738,416116,Tottenham,Nottingham,2,0,3,1
+497738,416347,Nottingham,Tottenham,0,1,0,2
+497739,416095,West Ham,Southampton,1,0,1,0
+497739,416277,Southampton,West Ham,1,0,1,1
+497740,436263,Bournemouth,Man United,2,1,2,2
+497740,436099,Man United,Bournemouth,0,1,0,3
+497740,416024,Bournemouth,Man United,0,1,0,1
+497740,416196,Man United,Bournemouth,1,0,3,0
+497741,436144,Arsenal,Crystal Palace,2,0,5,0
+497741,435954,Crystal Palace,Arsenal,0,0,0,1
+497741,416114,Arsenal,Crystal Palace,2,0,4,1
+497741,416384,Crystal Palace,Arsenal,0,1,0,2
+497742,436141,West Ham,Brighton Hove,0,0,0,0
+497742,435966,Brighton Hove,West Ham,0,1,1,3
+497742,416131,Brighton Hove,West Ham,1,0,4,0
+497742,416355,West Ham,Brighton Hove,0,1,0,2
+497743,436267,Chelsea,Everton,4,0,6,0
+497743,436096,Everton,Chelsea,0,0,2,0
+497743,416110,Chelsea,Everton,0,0,2,2
+497743,416377,Everton,Chelsea,0,1,0,1
+497744,436299,Liverpool,Tottenham,2,0,4,2
+497744,436010,Tottenham,Liverpool,1,1,2,1
+497744,416047,Liverpool,Tottenham,3,1,4,3
+497744,416237,Tottenham,Liverpool,0,2,1,2
+497745,436252,Man City,Aston Villa,2,1,4,1
+497745,436083,Aston Villa,Man City,0,0,1,0
+497745,416157,Man City,Aston Villa,3,0,3,1
+497745,416334,Aston Villa,Man City,0,0,1,1
+497747,436145,Brentford,Nottingham,1,1,3,2
+497747,436009,Nottingham,Brentford,0,0,1,1
+497747,416052,Brentford,Nottingham,0,1,2,1
+497747,416239,Nottingham,Brentford,1,1,2,2
+497748,416025,Southampton,Fulham,0,0,0,2
+497748,416212,Fulham,Southampton,1,0,2,1
+497749,416068,Leicester City,Wolverhampton,1,1,2,1
+497749,416255,Wolverhampton,Leicester City,0,2,0,4
+497750,436293,Arsenal,Bournemouth,1,0,3,0
+497750,436003,Bournemouth,Arsenal,0,2,0,4
+497750,416134,Arsenal,Bournemouth,0,1,3,2
+497750,416364,Bournemouth,Arsenal,0,2,0,3
+497751,436186,Fulham,Aston Villa,0,1,1,2
+497751,436055,Aston Villa,Fulham,2,0,3,1
+497751,416058,Aston Villa,Fulham,1,0,1,0
+497751,416270,Fulham,Aston Villa,1,0,3,0
+497752,436235,Brentford,Man United,0,0,1,1
+497752,436020,Man United,Brentford,0,1,2,1
+497752,416138,Man United,Brentford,1,0,1,0
+497752,416372,Brentford,Man United,4,0,4,0
+497753,436308,Newcastle,Brighton Hove,1,1,1,1
+497753,435975,Brighton Hove,Newcastle,1,0,3,1
+497753,416137,Newcastle,Brighton Hove,2,0,4,1
+497753,416371,Brighton Hove,Newcastle,0,0,0,0
+497754,436162,Liverpool,Chelsea,2,0,4,1
+497754,435951,Chelsea,Liverpool,1,1,1,1
+497754,416311,Chelsea,Liverpool,0,0,0,0
+497754,416178,Liverpool,Chelsea,0,0,0,0
+497755,436240,Nottingham,Crystal Palace,0,1,1,1
+497755,436016,Crystal Palace,Nottingham,0,0,0,0
+497755,416010,Crystal Palace,Nottingham,0,1,1,1
+497755,416228,Nottingham,Crystal Palace,0,0,1,0
+497757,437125,Leicester City,Southampton,1,0,5,0
+497757,436739,Southampton,Leicester City,1,3,1,4
+497757,416126,Southampton,Leicester City,1,0,1,0
+497757,416359,Leicester City,Southampton,0,0,1,2
+497758,436301,Man City,Wolverhampton,3,0,5,1
+497758,436012,Wolverhampton,Man City,1,0,2,1
+497758,416177,Man City,Wolverhampton,1,0,3,0
+497758,416305,Wolverhampton,Man City,0,2,0,3
+497759,436248,West Ham,Tottenham,1,1,1,1
+497759,436089,Tottenham,West Ham,1,0,1,2
+497759,416146,Tottenham,West Ham,0,0,2,0
+497759,416339,West Ham,Tottenham,0,1,1,1
+497760,436273,Aston Villa,Bournemouth,1,1,3,1
+497760,436073,Bournemouth,Aston Villa,1,1,2,2
+497760,416113,Aston Villa,Bournemouth,1,0,3,0
+497760,416382,Bournemouth,Aston Villa,1,0,2,0
+497761,436156,Fulham,Everton,0,0,0,0
+497761,435947,Everton,Fulham,0,0,0,1
+497761,416082,Everton,Fulham,1,1,1,3
+497761,416249,Fulham,Everton,0,0,0,0
+497763,436164,Arsenal,Liverpool,1,1,3,1
+497763,436116,Liverpool,Arsenal,1,1,1,1
+497763,416089,Liverpool,Arsenal,1,2,2,2
+497763,416294,Arsenal,Liverpool,2,1,3,2
+497764,436170,Man United,West Ham,1,0,3,0
+497764,436121,West Ham,Man United,0,0,2,0
+497764,416036,West Ham,Man United,1,0,1,0
+497764,416246,Man United,West Ham,1,0,1,0
+497765,436217,Chelsea,Newcastle,1,1,3,2
+497765,436069,Newcastle,Chelsea,1,1,4,1
+497765,416011,Chelsea,Newcastle,1,1,1,1
+497765,416229,Newcastle,Chelsea,0,0,1,0
+497766,416187,Nottingham,Leicester City,0,0,2,0
+497766,416299,Leicester City,Nottingham,3,0,4,0
+497767,416087,Southampton,Man City,0,1,1,4
+497767,416288,Man City,Southampton,2,0,4,0
+497768,436212,Tottenham,Crystal Palace,0,0,3,1
+497768,436038,Crystal Palace,Tottenham,0,0,1,2
+497768,416037,Tottenham,Crystal Palace,1,0,1,0
+497768,416200,Crystal Palace,Tottenham,0,0,0,4
+497769,436146,Brighton Hove,Wolverhampton,0,0,0,0
+497769,435962,Wolverhampton,Brighton Hove,0,1,1,4
+497769,416051,Brighton Hove,Wolverhampton,4,0,6,0
+497769,416235,Wolverhampton,Brighton Hove,2,2,2,3
+497770,436194,Arsenal,Newcastle,2,0,4,1
+497770,436049,Newcastle,Arsenal,0,0,1,0
+497770,416039,Newcastle,Arsenal,0,1,0,2
+497770,416204,Arsenal,Newcastle,0,0,0,0
+497771,436215,Aston Villa,Tottenham,0,0,0,4
+497771,436072,Tottenham,Aston Villa,1,1,1,2
+497771,416033,Aston Villa,Tottenham,1,0,2,1
+497771,416207,Tottenham,Aston Villa,0,0,0,2
+497772,436294,Brentford,Fulham,0,0,0,0
+497772,435955,Fulham,Brentford,0,1,0,3
+497772,416132,Brentford,Fulham,1,1,3,2
+497772,416361,Fulham,Brentford,2,1,3,2
+497773,436237,Liverpool,Brighton Hove,1,1,2,1
+497773,436014,Brighton Hove,Liverpool,1,2,2,2
+497773,416192,Brighton Hove,Liverpool,0,0,3,0
+497773,416298,Liverpool,Brighton Hove,1,2,3,3
+497774,436249,Chelsea,Man United,2,2,4,3
+497774,436092,Man United,Chelsea,1,1,2,1
+497774,416066,Man United,Chelsea,2,0,4,1
+497774,416263,Chelsea,Man United,0,0,1,1
+497775,436312,Wolverhampton,Crystal Palace,0,2,1,3
+497775,435978,Crystal Palace,Wolverhampton,0,0,3,2
+497775,416059,Wolverhampton,Crystal Palace,1,0,2,0
+497775,416268,Crystal Palace,Wolverhampton,0,1,2,1
+497776,416190,Everton,Southampton,1,0,1,2
+497776,416296,Southampton,Everton,0,0,1,2
+497777,437004,Leicester City,Ipswich Town,1,0,1,1
+497777,436959,Ipswich Town,Leicester City,0,1,1,1
+497778,436193,Bournemouth,Man City,0,1,0,1
+497778,436048,Man City,Bournemouth,3,0,6,1
+497778,416144,Bournemouth,Man City,0,3,1,4
+497778,416368,Man City,Bournemouth,3,0,4,0
+497779,436190,Nottingham,West Ham,1,0,2,0
+497779,436061,West Ham,Nottingham,1,1,3,2
+497779,416135,West Ham,Nottingham,0,0,4,0
+497779,416367,Nottingham,West Ham,1,0,1,0
+497780,497477,Leicester City,Bournemouth,1,0,1,0
+497780,416090,Leicester City,Bournemouth,0,1,0,1
+497780,416293,Bournemouth,Leicester City,0,1,2,1
+497781,497478,Man City,Fulham,1,1,3,2
+497781,436306,Fulham,Man City,0,1,0,4
+497781,435981,Man City,Fulham,2,1,5,1
+497781,416049,Fulham,Man City,1,2,1,2
+497781,416240,Man City,Fulham,1,1,2,1
+497782,497479,West Ham,Ipswich Town,2,1,4,1
+497783,497475,Crystal Palace,Liverpool,0,1,0,1
+497783,436268,Liverpool,Crystal Palace,0,1,0,1
+497783,436095,Crystal Palace,Liverpool,0,0,1,2
+497783,416143,Crystal Palace,Liverpool,0,0,0,0
+497783,416369,Liverpool,Crystal Palace,0,1,1,1
+497784,497471,Aston Villa,Man United,0,0,0,0
+497784,436173,Aston Villa,Man United,0,1,1,2
+497784,436130,Man United,Aston Villa,0,2,3,2
+497784,416046,Man United,Aston Villa,1,0,1,0
+497784,416244,Aston Villa,Man United,2,1,3,1
+497785,497476,Everton,Newcastle,0,0,0,0
+497785,436250,Newcastle,Everton,1,0,1,1
+497785,436085,Everton,Newcastle,0,0,3,0
+497785,416064,Everton,Newcastle,0,1,1,4
+497785,416267,Newcastle,Everton,1,0,1,0
+497786,497474,Chelsea,Nottingham,0,0,1,1
+497786,436309,Nottingham,Chelsea,1,1,2,3
+497786,435977,Chelsea,Nottingham,0,0,0,1
+497786,416031,Chelsea,Nottingham,0,1,2,2
+497786,416208,Nottingham,Chelsea,0,1,1,1
+497787,497470,Arsenal,Southampton,0,0,3,1
+497787,416074,Arsenal,Southampton,1,2,3,3
+497787,416258,Southampton,Arsenal,0,1,1,1
+497788,497473,Brighton Hove,Tottenham,0,2,3,2
+497788,436180,Tottenham,Brighton Hove,0,1,2,1
+497788,436126,Brighton Hove,Tottenham,2,0,4,2
+497788,416086,Tottenham,Brighton Hove,1,1,2,1
+497788,416292,Brighton Hove,Tottenham,0,1,0,1
+497789,497472,Brentford,Wolverhampton,4,2,5,3
+497789,436182,Wolverhampton,Brentford,0,1,0,2
+497789,436125,Brentford,Wolverhampton,1,3,1,4
+497789,416075,Wolverhampton,Brentford,1,0,2,0
+497789,416252,Brentford,Wolverhampton,0,0,1,1
